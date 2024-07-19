@@ -6,6 +6,9 @@
   "scripts": {
     "start": "node --watch index.js"
   },
+  "engines": {
+    "node": "14.x"
+  },
   "keywords": [],
   "author": "Inside4ndoid Studios",
   "license": "GPL-3.0-only",
