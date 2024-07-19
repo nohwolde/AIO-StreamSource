@@ -4,7 +4,7 @@
   "main": "index.mjs",
   "type": "module",
   "scripts": {
-    "main": "node --watch index.js"
+    "start": "node --watch index.js"
   },
   "keywords": [],
   "author": "Inside4ndoid Studios",
