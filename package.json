@@ -7,7 +7,7 @@
     "start": "node --watch index.js"
   },
   "engines": {
-    "node": "14.x"
+    "node": "20.x"
   },
   "keywords": [],
   "author": "Inside4ndoid Studios",
